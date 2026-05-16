@@ -264,7 +264,7 @@ This project demonstrates how HR data can be transformed into executive intellig
 ### DIGAMBAR SHINDE
 
 
-💻 GitHub: 
+💻 GitHub: https://github.com/DigamabrShinde1342/HR_Analytics_Dashboard 
 
 ---
 
